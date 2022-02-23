@@ -19,8 +19,8 @@ This is my solution to the QR code component challenge on Frontend Mentor. I use
 
 ### Screenshot
 
-![(/desktop_screenshot.JPG)]
-![(/mobile_screenshot.JPG)]
+![Desktop screenshot](https://github.com/Zephsa/QR-code-component/blob/main/design/desktop_screenshot.JPG)
+![Mobile screenshot](https://github.com/Zephsa/QR-code-component/blob/main/design/mobile_screenshot.JPG)
 
 ### Links
 
